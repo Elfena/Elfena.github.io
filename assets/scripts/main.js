@@ -14,7 +14,7 @@
                   });
 
                   promise1.then(function(value) {
-                        var backgoundElement = document.getElementsByClassName("hero-image")[0];
+                        var backgoundElement = document.getElementsByClassName("background")[0];
                         backgoundElement.style.backgroundImage = "url(./assets/images/background.png)";
                         backgoundElement.style.backgroundRepeat = "no-repeat";
                         backgoundElement.style.backgroundPosition = "100% 10%";
@@ -40,7 +40,7 @@
                   });
 
                   promise3.then(function(value) {
-                        var logoElement = document.getElementsByClassName("text")[0];
+                        var logoElement = document.getElementsByClassName("logo")[0];
                         logoElement.style.backgroundImage = "url(./assets/images/logo.png)";
                         logoElement.style.backgroundRepeat = "no-repeat";
                         logoElement.style.backgroundPosition = "50% 50%";
