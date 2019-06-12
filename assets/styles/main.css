@@ -55,7 +55,7 @@ html, body {
       top: 32%;
       background: url(../images/logo.png) no-repeat 50% 50%;
       background-size: cover;
-      mix-blend-mode: overlay;
+     /* mix-blend-mode: overlay; */
 }
 
 .clouds {
