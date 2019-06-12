@@ -80,12 +80,17 @@ html, body {
 
 h1 {
       font-size: 42px;
-      font-family: Anton;
       text-transform: uppercase;
       text-align: center;
+      font-family: 'Crux Normal';
+      font-weight: normal;
+      font-style: normal;
+      color: #162317;
 }
 
 p {
       line-height: 40px;
       text-align: justify;
+      font-family: Gotham-Book;
+      color: #162317;
 }
