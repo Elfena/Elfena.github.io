@@ -1,3 +1,37 @@
+@font-face {
+      font-family: 'Crux Normal';
+      src: url('../../fonts/Crux-Normal.eot');
+      src: url('../fonts/Crux-Normal.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Crux-Normal.woff2') format('woff2'),
+            url('../fonts/Crux-Normal.woff') format('woff'),
+            url('../fonts/Crux-Normal.ttf') format('truetype'),
+            url('../fonts/Crux-Normal.svg#Crux-Normal') format('svg');
+      font-weight: normal;
+      font-style: normal;
+}
+  
+@font-face {
+      font-family: 'Crux Outline';
+      src: url('../fonts/Crux-Outline.eot');
+      src: url('../fonts/Crux-Outline.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Crux-Outline.woff2') format('woff2'),
+            url('../fonts/Crux-Outline.woff') format('woff'),
+            url('../fonts/Crux-Outline.ttf') format('truetype'),
+            url('../fonts/Crux-Outline.svg#Crux-Outline') format('svg');
+      font-weight: normal;
+      font-style: normal;
+      }
+  
+@font-face {
+      font-family: 'Gotham-Book';
+      src: url('../fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Gotham-Book.woff2') format('woff2'),
+            url('../fonts/Gotham-Book.woff') format('woff'),
+            url('../fonts/Gotham-Book.ttf') format('truetype'),
+            url('../fonts/Gotham-Book.svg#Gotham-Book') format('svg');
+      font-weight: 500;
+      font-style: normal;
+}
 html, body {
       margin: 0;
       padding: 0;
